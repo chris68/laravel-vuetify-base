@@ -18,6 +18,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Scaffolding UI  
   `php artisan ui vue --auth`  
   Marked the places for rework with @todo
+- Postgres as database
+
 
 ### Changed
 
