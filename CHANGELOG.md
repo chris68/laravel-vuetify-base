@@ -13,7 +13,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initial create with laravel 8 (`composer create-project laravel/larvel <Project>`)
 - Added Vue 3 as standard
   `npm i -D laravel-mix@next vue@next @vue/compiler-sfc vue-loader@next`
-
+- Added Laravel ui  
+  `composer require laravel/ui`
+  
 ### Changed
 
 ### Removed
