@@ -15,7 +15,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   `npm i -D laravel-mix@next vue@next @vue/compiler-sfc vue-loader@next`
 - Added Laravel ui  
   `composer require laravel/ui`
-  
+- Scaffolding UI  
+  `php artisan ui vue --auth`  
+  Marked the places for rework with @todo
+
 ### Changed
 
 ### Removed
