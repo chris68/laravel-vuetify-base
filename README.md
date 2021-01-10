@@ -1,2 +1,2 @@
 # laravel-vuetify-base
-Template for Laravel 8.x with Vuetify 3.x
+Boilerplate for Laravel 8.x with Vue 3.x & Vuetify 3.x

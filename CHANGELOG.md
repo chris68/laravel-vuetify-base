@@ -5,12 +5,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## ## 2021-01-10
 
-
 ### Added
 
 - Upgrade Vue to Vue 3.03 (was not 3.03 yet...)
 - Enable Vue with the one example component (=> show it in home)
 - Adapt gitignore 
+- Added SourceMaps
 
 ## 2021-01-09
 
