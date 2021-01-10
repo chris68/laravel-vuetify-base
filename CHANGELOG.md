@@ -3,9 +3,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.1.0] - 
+## unreleased
 
-## [Unreleased]
+### Added
+
+- Debug Toolbar  
+  https://github.com/barryvdh/laravel-debugbar
+
+## 2021-01-10
 
 ### Added
 
@@ -18,8 +23,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Scaffolding UI  
   `php artisan ui vue --auth`  
   Marked the places for rework with @todo
-- Postgres as database
+- Postgres as database  
+  Changed .env  files  
+  `artisan migrate`  
+  `artisan serve` now works with /register and /login links
+- Mails to log instead to server
+  
+## Template
 
+### Added
 
 ### Changed
 
