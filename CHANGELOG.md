@@ -7,14 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Debug Toolbar  
-  https://github.com/barryvdh/laravel-debugbar
 
 ## 2021-01-10
 
 ### Added
 
-- Intall snap node      12.19.0    3292   12/stable      iojs✓             classic
+- Install snap node      12.19.0    3292   12/stable      iojs✓             classic
 - Initial create with laravel 8 (`composer create-project laravel/larvel <Project>`)
 - Added Vue 3 as standard
   `npm i -D laravel-mix@next vue@next @vue/compiler-sfc vue-loader@next`
@@ -28,6 +26,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   `artisan migrate`  
   `artisan serve` now works with /register and /login links
 - Mails to log instead to server
+- Locale de  
+  `composer require laravel-lang/lang:~8.0 --dev` (=> vendor\laravel-lang\lang)  
+  Copy `de` files to `resources\lang`
+- Debug Toolbar  (https://github.com/barryvdh/laravel-debugbar)  
+  `composer require barryvdh/laravel-debugbar --dev`
   
 ## Template
 
